@@ -1,7 +1,7 @@
 {
   "general": {
-    "prefix": "!",
-    "steamId": "",
+    "prefix": ";",
+    "steamId": "76561199113043667",
     "reconnectAttempts": "30",
     "inGameCommands": "true"
   },
@@ -21,8 +21,8 @@
     "enabled": "true"
   },
   "discord": {
-    "token": "",
-    "botSpamChannel": ""
+    "token": "OTMyNzE3MDk2NjQ1ODUzMjY2.GQLTBZ.A7YbpKgBY8YHyqjV6XS0PxGflSyNKBW3YQfNDI",
+    "botSpamChannel": "932717483666858014"
   },
   "rustplus": {
     "fcmListener": "true",
@@ -30,8 +30,8 @@
     "inGamePairingNotifications": "true"
   },
   "rust": {
-    "serverIp": "",
-    "appPort": "",
-    "playerToken": ""
+    "serverIp": "192.248.164.111",
+    "appPort": "28084",
+    "playerToken": "-1910123729"
   }
 }
